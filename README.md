@@ -1,7 +1,8 @@
 # ZMK Configuration
 
-ZMK configuration for [charybdis nano](https://github.com/Bastardkb/Charybdis/tree/main) wireless
-version with [nice!nano](https://nicekeyboards.com/nice-nano/).
+ZMK configuration for [charybdis nano](https://github.com/Bastardkb/Charybdis/tree/main) with [nice!nano](https://nicekeyboards.com/nice-nano/).
+
+Buy keycaps [here](https://3dkeycap.com/products/mx-lame-keycap-set-low-profile-ergonomic-sculpted-keycaps?variant=44053971796226).
 
 Modify [charybdis.keymap](config/charybdis.keymap) to change the keymap. Docs [here](https://zmk.dev/docs).
 
@@ -17,10 +18,10 @@ To generate keymap files:
 3. Double tap the reset button at the back.
 4. The keyboard half should now be visible as a removable device.
 5. Drag and drop the corresponding file to the removable device.
-6. After copying the device will automatically unmout.
+6. After copying, the device will automatically unmout.
 7. Reconnect the keyboards and enjoy.
 
-To generated svg of the keymap, visit [Keymap drawer](https://keymap-drawer.streamlit.app) and copy [charybdis.yaml](keymap-drawer/charybdis.yaml) to **Keymap Specs** field and hit **Run** below
+To generate a svg of the keymap, visit [Keymap drawer](https://keymap-drawer.streamlit.app) and copy [charybdis.yaml](keymap-drawer/charybdis.yaml) to **Keymap Specs** field and hit **Run** below
 
 List of icons used are [here](https://icon-sets.iconify.design/mdi/)
 

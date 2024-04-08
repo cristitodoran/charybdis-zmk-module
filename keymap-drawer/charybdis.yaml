@@ -5,36 +5,36 @@ layout:
   cols_thumbs_notation: 33333+3 2+33333
 layers:
   Base:
-  - - {t: '''', s: '{'}
-    - {t: ',', s: (}
-    - {t: ., s: )}
-    - P
-    - Y
-    - F
-    - G
-    - C
-    - R
-    - L
-  - - {t: A, h: $$mdi:linux$$}
-    - {t: O, h: $$mdi:apple-keyboard-option$$}
-    - {t: E, h: $$mdi:apple-keyboard-control$$}
-    - {t: U, h: $$mdi:apple-keyboard-shift$$}
-    - I
-    - D
-    - {t: H, h: $$mdi:apple-keyboard-shift$$}
-    - {t: T, h: $$mdi:apple-keyboard-control$$}
-    - {t: N, h: $$mdi:apple-keyboard-option$$}
-    - {t: S, h: $$mdi:linux$$}
-  - - {t: '"', s: '}', h: $$mdi:mouse$$}
-    - Q
-    - J
-    - K
-    - X
-    - B
-    - M
+  - - Q
     - W
+    - E
+    - R
+    - T
+    - Y
+    - U
+    - I
+    - O
+    - P
+  - - {t: A, h: $$mdi:linux$$}
+    - {t: S, h: $$mdi:apple-keyboard-option$$}
+    - {t: D, h: $$mdi:apple-keyboard-control$$}
+    - {t: F, h: $$mdi:apple-keyboard-shift$$}
+    - G
+    - H
+    - {t: J, h: $$mdi:apple-keyboard-shift$$}
+    - {t: K, h: $$mdi:apple-keyboard-control$$}
+    - {t: L, h: $$mdi:apple-keyboard-option$$}
+    - {t: '''', s: '{', h: $$mdi:linux$$}
+  - - {t: Z, h: $$mdi:mouse$$}
+    - X
+    - C
     - V
-    - {t: Z, h: $$mdi:mouse$$}
+    - B
+    - N
+    - M
+    - {t: ',', s: '('}
+    - {t: '.', s: ')'}
+    - {t: '"', s: '}', h: $$mdi:mouse$$}
   - - {t: $$mdi:keyboard-esc$$, h: $$mdi:function-variant$$}
     - {t: $$mdi:keyboard-space$$, h: $$mdi:music-note-plus$$}
     - {t: $$mdi:keyboard-tab$$, h: $$mdi:calculator$$}
@@ -155,7 +155,7 @@ layers:
     - $$mdi:apple-keyboard-control$$
     - $$mdi:apple-keyboard-shift$$
     - {t: ▽, type: trans}
-    - SLCK
+    - SCROLL LOCK
     - F4
     - F5
     - F6
