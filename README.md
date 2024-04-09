@@ -21,7 +21,7 @@ To generate keymap files:
 6. After copying, the device will automatically unmout.
 7. Reconnect the keyboards and enjoy.
 
-To generate a svg of the keymap, visit [Keymap drawer](https://keymap-drawer.streamlit.app) and copy [charybdis.yaml](keymap-drawer/charybdis.yaml) to **Keymap Specs** field and hit **Run** below
+To generate a svg of the keymap, visit [Keymap drawer](https://keymap-drawer.streamlit.app) and copy [charybdis.yaml](keymap-drawer/charybdis.yaml) to **Keymap Specs** field and hit **Run** below. Or use [charybdis.keymap](config/charybdis.keymap) and parse from file.
 
 List of icons used are [here](https://icon-sets.iconify.design/mdi/)
 
